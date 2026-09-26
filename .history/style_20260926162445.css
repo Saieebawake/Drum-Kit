@@ -1,0 +1,27 @@
+* {
+    margin:0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+html {
+    font-size: 10px;
+    background: url('https://png.pngtree.com/thumb_back/fh260/background/20230713/pngtree-3d-renderings-of-musical-instruments-image_3886081.jpg') bottom center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+
+}
+
+.keys {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.key {
+    border: 2px solid white;
+    padding: 2px;
+}
