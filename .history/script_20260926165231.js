@@ -1,1 +1,0 @@
-function removeTransition = (e)
